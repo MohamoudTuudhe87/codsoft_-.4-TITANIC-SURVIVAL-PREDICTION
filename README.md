@@ -13,7 +13,7 @@ In this project, we use the Titanic dataset from Kaggle, which contains demograp
 **Modeling**: Testing multiple machine learning algorithms such as Logistic Regression, Random Forest, and Gradient Boosting.   
 **Evaluation**: Assessing models using accuracy, precision, recall, and F1-score.
 
-## Data Structure
+## 📂 Data Structure
 
 The dataset consists of the following columns:
 
