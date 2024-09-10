@@ -13,6 +13,26 @@ In this project, we use the Titanic dataset from Kaggle, which contains demograp
 **Modeling**: Testing multiple machine learning algorithms such as Logistic Regression, Random Forest, and Gradient Boosting.   
 **Evaluation**: Assessing models using accuracy, precision, recall, and F1-score.
 
+## Data Structure
+
+The dataset consists of the following columns:
+
+| Column Name | Description                                     | Data Type |
+|-------------|-------------------------------------------------|-----------|
+| PassengerId | Unique identifier for each passenger           | Integer   |
+| Survived    | Survival status (0 = No, 1 = Yes)              | Integer   |
+| Pclass      | Passenger class (1st, 2nd, or 3rd class)       | Integer   |
+| Name        | Name of the passenger                          | String    |
+| Sex         | Gender of the passenger (male/female)           | String    |
+| Age         | Age of the passenger                           | Float     |
+| SibSp       | Number of siblings/spouses aboard the Titanic | Integer   |
+| Parch       | Number of parents/children aboard the Titanic | Integer   |
+| Ticket      | Ticket number                                  | String    |
+| Fare        | Passenger fare                                 | Float     |
+| Cabin       | Cabin number                                   | String    |
+| Embarked    | Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton) | String    |
+
+
 ## 🔧 Tools and Libraries
 The following tools and libraries were used in this project:
 
